@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub
 
-<!--
-**Aina189/Aina189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://via.placeholder.com/150" width="150" height="150" alt="Photo de profil">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Aina189"><img src="https://img.shields.io/github/followers/Aina189?style=social" alt="GitHub followers"></a>
+  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 À propos de moi
+
+Je suis un développeur **passionné par la technologie** et expérimenté dans le développement web et mobile. Voici mes projets principaux :
+
+- **[VOLTA](https://github.com/volta)** : Application de surveillance de la consommation d'énergie avec Flutter et Spring Boot.
+- **[Mediatheque](https://github.com/Aina189/Gestion-Mediatheque-java)** : Application de gestion de bibliothèque en Java.
+
+---
+
+### 🔧 Technologies
+
+| Langages       | Frameworks       | Outils           |
+|----------------|------------------|------------------|
+| Java, Dart     | Flutter, Spring Boot | Git, Docker |
+
+---
+
+### 📫 Me contacter
+
+Pour des collaborations ou des opportunités, contactez-moi via [mon email](mailto:monemail@example.com) ou sur [LinkedIn](https://linkedin.com/in/username).
