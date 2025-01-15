@@ -22,12 +22,13 @@ Je suis un développeur **passionné par la technologie** et expérimenté dans 
 
 ### 🔧 Technologies
 
-| Langages       | Frameworks       | Outils           |
-|----------------|------------------|------------------|
-| Java, Dart     | Flutter, Spring Boot | Git, Docker |
-
+| Langages               | Frameworks              | Outils           |
+|------------------------|-------------------------|------------------|
+| Java, Dart, JavaScript |Flutter, Spring Boot     |Git, Docker       |
+| HTML,CSS               |TailwindCss, ReactNative |Figma             |
+|                        |ReactJs                  |                  |
 ---
 
 ### 📫 Me contacter
 
-Pour des collaborations ou des opportunités, contactez-moi via [mon email](mailto:monemail@example.com) ou sur [LinkedIn](https://linkedin.com/in/username).
+Pour des collaborations ou des opportunités, contactez-moi via [mon email](ainafitia120868@gmail.com) ou sur [LinkedIn](https://linkedin.com/in/username).
