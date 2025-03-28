@@ -27,6 +27,7 @@ Je suis un développeur **passionné par la technologie** et expérimenté dans 
 | Java, Dart, JavaScript |Flutter, Spring Boot     |Git, Docker       |
 | HTML,CSS               |TailwindCss, ReactNative |Figma             |
 |                        |ReactJs                  |                  |
+|                        |NextJs                   |                  |
 ---
 
 ### 📫 Me contacter
